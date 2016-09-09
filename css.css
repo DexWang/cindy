@@ -1,0 +1,128 @@
+body
+{
+	background-color: #dddddd;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+header
+{
+	color:#ffffff;
+	text-align: center;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.cindyimage
+{
+	height: 150px;
+	width: 150px;
+	border-radius: 9999px;
+	border:6px solid #fff;
+}
+.cindyname
+{
+	padding-bottom: 20px;
+	padding-left: 50px;
+	height: 100px;
+	width: 600px;
+}
+
+nav
+{
+	background-image: url("images/bar.png");
+	background-size: contain;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	text-align: center;
+	font-size: 1.2em;
+	width: 1080px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 8px;
+}
+
+.ulstyle
+{
+	list-style-type: none;
+}
+
+.listyle
+{
+	display: inline;
+}
+
+
+
+.barlink
+{
+    padding: 0px 30px; font-family: arial; color: #cfcfcf; text-decoration: none; 
+    font-weight: bold; 
+    margin: 1px; 
+    font-size: 20px;
+    margin-top: 5px;
+    display: inline-block;
+}
+.barlink:visited
+{
+    color: #cfcfcf;
+}
+
+.barlink:hover
+{
+    color: #ffffff
+}
+
+
+main
+{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 70px;
+	padding-left: 70px;
+	background-image: url("images/background.jpg");
+	background-color: #ffffff;
+	border-radius: 5px;
+ }
+
+main h1
+{
+	margin: 20px;
+	font-size: 3em;
+}
+
+.maincenter
+{
+	text-align: center;
+	font-family:"Times New Roman",serif;
+}
+
+#wrapper
+{
+	width: 1080px;
+	min-height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
+}
+
+footer
+{
+	color: #ffffff;
+	background-image: url("images/bar.png");
+	background-size: contain;
+	padding-bottom: 20px;
+	padding-top: 12px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 8px;
+	font-size: 0.7em;
+	text-align: center;
+	line-height: 50%;
+}
+
+a
+{
+	text-decoration: none;
+}
